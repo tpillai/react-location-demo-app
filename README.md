@@ -11,4 +11,5 @@ npm start
 
 # Access below routes
 
-Go to http://localhost:3000/cart
+ http://localhost:3000/test
+ http://localhost:3000/product/1
