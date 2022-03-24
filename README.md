@@ -5,16 +5,21 @@ for replacing react-router
 
 # Installation
 
+https://www.npmjs.com/package/create-mf-app
+
 ```sh
-npm create-mf-app https://www.npmjs.com/package/create-mf-app
+npm create-mf-app 
 npm start
 ```
+
 
 # Access below routes
 
  http://localhost:3000/test
+
  http://localhost:3000/product/1
 
 
- #Video
+ # Video
+ 
  https://www.youtube.com/watch?v=i8kner-Yrj0
